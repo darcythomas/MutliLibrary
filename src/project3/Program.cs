@@ -4,7 +4,7 @@ using project2;
 
 public class Program
 {
-    public void Main()
+    public static void Main()
     {
         var c1 = new Class1();
         var c2 = new Class2();
